@@ -1,0 +1,14 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "ingress-glyph-sticker-bot"
+main = "src/index.js"
+compatibility_date = "2024-08-06"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+MAINTENANCE_CHAT_ID = "REDACTED"
+LRU_USERLIMIT = 10
+LRU_QUERYLIMIT = 30
+
+[[kv_namespaces]]
+binding = "cache"
+id = "REDACTED"

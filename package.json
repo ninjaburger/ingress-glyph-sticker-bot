@@ -1,0 +1,17 @@
+{
+	"name": "ingress-glyph-sticker-bot",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev"
+	},
+	"devDependencies": {
+		"wrangler": "^3.60.3"
+	},
+	"dependencies": {
+		"@skyra/jaro-winkler": "^1.1.1",
+		"pako": "^2.1.0"
+	}
+}
