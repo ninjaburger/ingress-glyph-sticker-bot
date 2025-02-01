@@ -9,6 +9,7 @@ const glyphSequencesMap = new Map([
 			["fear","see","future"],
 			["fear","see","future","destination"],
 			["fear","together"],
+			["restraint","pursue","speed","together"],
 			["war","create","love"],
 		],
 	],
@@ -397,6 +398,7 @@ const glyphSequencesMap = new Map([
 			["shapers","harm"],
 			["shapers","harmony"],
 			["simple","human","future"],
+			["speed","barrier"],
 			["together"],
 		],
 	],
@@ -457,8 +459,10 @@ const glyphSequencesMap = new Map([
 			["civilization","peace"],
 			["future","escape"],
 			["more","knowledge"],
+			["more","speed"],
 			["portal","attack","weak"],
 			["safety"],
+			["speed"],
 			["truth","open","human","soul"],
 		],
 	],
@@ -761,6 +765,7 @@ const glyphSequencesMap = new Map([
 			["love"],
 			["love","less","conflict","war"],
 			["love","more","courage"],
+			["speed","more","potential"],
 		],
 	],
 	[
@@ -980,6 +985,17 @@ const glyphSequencesMap = new Map([
 		],
 	],
 	[
+		"refresh",
+		[
+			["all"],
+			["change","perspective"],
+			["mind","refresh","body"],
+			["nourish","recharge"],
+			["old","discover","new"],
+			["technology","gain","more","speed"],
+		],
+	],
+	[
 		"repair",
 		[
 			["1","3","3","1"],
@@ -1020,6 +1036,8 @@ const glyphSequencesMap = new Map([
 	[
 		"save",
 		[
+			["before","recharge"],
+			["before","refresh"],
 			["human","civilization","destroy","portal"],
 		],
 	],
@@ -1052,6 +1070,12 @@ const glyphSequencesMap = new Map([
 			["truth","see","future"],
 			["truth","see","future","begin"],
 			["unbounded"],
+		],
+	],
+	[
+		"self",
+		[
+			["less","together","speed"],
 		],
 	],
 	[
@@ -1117,6 +1141,12 @@ const glyphSequencesMap = new Map([
 		"soul",
 		[
 			["rebel","human","die"],
+		],
+	],
+	[
+		"speed",
+		[
+			["equal","key"],
 		],
 	],
 	[
@@ -1198,6 +1228,7 @@ const glyphSequencesMap = new Map([
 			["key","together","create","star"],
 			["mind","use","courage","change"],
 			["restraint","follow","easy","path"],
+			["speed","pure","key"],
 		],
 	],
 	[
@@ -1246,6 +1277,7 @@ const glyphSequencesMap = new Map([
 			["adapt"],
 			["hide","chaos"],
 			["hide","chaos","inside","body"],
+			["refresh","us"],
 			["see","n","l","again"],
 		],
 	],
