@@ -4,6 +4,7 @@ abandon,fear,defend,future,together
 abandon,fear,see,future,
 abandon,fear,see,future,destination
 abandon,fear,together,,
+abandon,restraint,pursue,speed,together
 abandon,war,create,love,
 accept,human,inside,n,l
 accept,human,weak,,
@@ -212,6 +213,7 @@ escape,portal,harm,,
 escape,shapers,harm,,
 escape,shapers,harmony,,
 escape,simple,human,future,
+escape,speed,barrier,,
 escape,together,,,
 fear,chaos,xm,,
 fear,complex,xm,,
@@ -242,8 +244,10 @@ future,equal,past,,
 gain,civilization,peace,,
 gain,future,escape,,
 gain,more,knowledge,,
+gain,more,speed,,
 gain,portal,attack,weak,
 gain,safety,,,
+gain,speed,,,
 gain,truth,open,human,soul
 grow,collective,presence,,
 grow,shapers,presence,,
@@ -411,6 +415,7 @@ more,journey,less,destination,
 more,love,,,
 more,love,less,conflict,war
 more,love,more,courage,
+more,speed,more,potential,
 mystery,before,pure,knowledge,after
 mystery,inside,heart,,
 n,l,have,portal,message
@@ -512,6 +517,12 @@ react,impure,civilization,,
 react,pure,truth,,
 react,rebel,question,shapers,lie
 rebel,thought,evolution,destiny,now
+refresh,all,,,
+refresh,change,perspective,,
+refresh,mind,refresh,body,
+refresh,nourish,recharge,,
+refresh,old,discover,new,
+refresh,technology,gain,more,speed
 repair,1,3,3,1
 repair,all,liveagain,,
 repair,heart,,,
@@ -525,6 +536,8 @@ restraint,fear,avoid,danger,
 restraint,path,gain,harmony,
 retreat,search,safety,,
 safety,together,,,
+save,before,recharge,,
+save,before,refresh,,
 save,human,civilization,destroy,portal
 search,data,discover,path,
 search,destiny,create,pure,future
@@ -547,6 +560,7 @@ see,truth,now,,
 see,truth,see,future,
 see,truth,see,future,begin
 see,unbounded,,,
+self,less,together,speed,
 separate,attack,,,
 separate,future,evolution,,
 separate,future,pursue,,
@@ -582,6 +596,7 @@ simple,truth,breathe,nature,
 simple,truth,forget,easy,success
 simple,truth,shapers,destroy,civilization
 soul,rebel,human,die,
+speed,equal,key,,
 star,courage,difficult,,
 star,nature,,,
 stay,strong,together,defend,resistance
@@ -618,6 +633,7 @@ use,key,,,
 use,key,together,create,star
 use,mind,use,courage,change
 use,restraint,follow,easy,path
+use,speed,pure,key,
 want,1,3,3,1
 want,new,destination,ignore,consequence
 want,truth,now,,
@@ -641,5 +657,6 @@ xm,share,your,creativity,
 you,adapt,,,
 you,hide,chaos,,
 you,hide,chaos,inside,body
+you,refresh,us,,
 you,see,n,l,again
 your,message,clear,use,chaos
