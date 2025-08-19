@@ -8,7 +8,7 @@
 		"start": "wrangler dev"
 	},
 	"devDependencies": {
-		"wrangler": "^3.60.3"
+		"wrangler": "^4.31.0"
 	},
 	"dependencies": {
 		"@skyra/jaro-winkler": "^1.1.1",
